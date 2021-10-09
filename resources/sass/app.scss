@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Custom Untuk Tampilan "Beranda"
+.main-image{
+  background-color: #000000;
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid #000000;
+}
+
